@@ -1,0 +1,15 @@
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\obj\Debug\net8.0\Digit_git_lub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\obj\Debug\net8.0\Digit_git_lub.AssemblyInfoInputs.cache
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\obj\Debug\net8.0\Digit_git_lub.AssemblyInfo.cs
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\obj\Debug\net8.0\Digit_git_lub.csproj.CoreCompileInputs.cache
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\obj\Debug\net8.0\Digit_git_lub.sourcelink.json
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\bin\Debug\net8.0\Digit_git_lub.exe
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\bin\Debug\net8.0\Digit_git_lub.deps.json
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\bin\Debug\net8.0\Digit_git_lub.runtimeconfig.json
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\bin\Debug\net8.0\Digit_git_lub.dll
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\bin\Debug\net8.0\Digit_git_lub.pdb
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\obj\Debug\net8.0\Digit_git_lub.dll
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\obj\Debug\net8.0\refint\Digit_git_lub.dll
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\obj\Debug\net8.0\Digit_git_lub.pdb
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\obj\Debug\net8.0\Digit_git_lub.genruntimeconfig.cache
+C:\Users\miloe\RepoForDigitTechnologies\Digit_git_lub\Digit_git_lub\obj\Debug\net8.0\ref\Digit_git_lub.dll

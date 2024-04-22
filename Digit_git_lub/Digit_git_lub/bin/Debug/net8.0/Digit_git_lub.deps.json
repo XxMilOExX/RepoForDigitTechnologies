@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Digit_git_lub/1.0.0": {
+        "runtime": {
+          "Digit_git_lub.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Digit_git_lub/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

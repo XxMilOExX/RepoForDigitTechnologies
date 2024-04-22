@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Digit_git_lub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be80faafaeea23be3eb1bfbe6426046ac0065f3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e011afd4ce2f9a37a2a06acbc727ecf6bee17aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Digit_git_lub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Digit_git_lub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

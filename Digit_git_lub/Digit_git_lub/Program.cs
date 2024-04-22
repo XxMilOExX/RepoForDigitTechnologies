@@ -1,2 +1,26 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Digit_git_lub;
+
+Print.Phrase("ПРИВЕТ, МАЗАФА...");
+Print.Clear(1.5);
+Print.Phrase("КАК");
+Thread.Sleep(TimeSpan.FromSeconds(.5));
+Print.Phrase("У ТЕБЯ");
+Thread.Sleep(TimeSpan.FromSeconds(.5));
+Print.Phrase("ДЕЛА?");
+Print.Clear(2);
+Print.Phrase("У МЕНЯ ХОРОШО");
+Print.Phrase(":)");
+Print.Clear(1.5);
+Print.Phrase("СПАСИБО");
+Print.Clear(.5);
+Print.Phrase("ВАМ");
+Print.Clear(.5);
+Print.Phrase("ЗА");
+Print.Clear(.5);
+Print.Phrase("АКТИВНОСТЬ");
+Print.Clear(1.5);
+Print.Phrase("ЛЮБЛЮ ВАС");
+Print.Clear(1.5);
+Console.ForegroundColor = ConsoleColor.Red;
+Print.Phrase("♥");
+Print.Clear(1.5);
